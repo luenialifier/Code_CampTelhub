@@ -1,5 +1,6 @@
 {
   "name": "marketplace",
+  "homepage": "https://meranto.link/len/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
